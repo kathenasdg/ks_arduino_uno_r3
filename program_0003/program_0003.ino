@@ -38,7 +38,7 @@ void setup()
 //
 // Info:
 //
-// Turn LED on for 60 seconds.
+// Turn LED on for 120 seconds.
 // Turn LED off for 5 seconds.
 //
 void loop()
