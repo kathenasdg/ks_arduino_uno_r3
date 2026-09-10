@@ -11,6 +11,10 @@
 //
 // See image file "multi_color_led_device.jpg".
 //
+// 1) Connect from this pin to 13 on UNO R3 board.
+//
+// 2) Connect from this pin to "GND" in "POWER" section on R3 board.
+//
 
 //
 // Declare pin 13 as LED output on our UNO R3 device.
