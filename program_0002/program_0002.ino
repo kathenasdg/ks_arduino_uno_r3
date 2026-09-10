@@ -8,7 +8,9 @@
 // License link (SPDX): https://spdx.org/licenses/GPL-3.0-or-later.html
 //
 
+//
 // Declaration of our "custom_add()" function.
+//
 int custom_add(int n_01, int n_02);
 
 //
@@ -16,11 +18,10 @@ int custom_add(int n_01, int n_02);
 //
 // Info:
 //
-// NULL setup().
+// Start serial communication at 115200 baud rate.
 //
 void setup()
 {
-    // Start serial communication at 115200 baud rate.
     Serial.begin(115200);
 }
 
@@ -29,17 +30,16 @@ void setup()
 //
 // Info:
 //
-// NULL loop().
+// Send data to "custom_add()" function and store in "result".
+//
+// Output "result" via serial interface.
+//
+// Hard exit the function.
 //
 void loop()
 {
-    // Send data to "custom_add()" function and store in "result".
     int result = custom_add(10, 10);
-
-    // Output "result" via serial interface.
     Serial.println(result);
-
-    // Hard exit the function.
     exit(0);
 }
 
@@ -52,7 +52,6 @@ void loop()
 //
 int custom_add(int n_01, int n_02)
 {
-    // Return the result of adding n_01 and n_02 together.
     return n_01 + n_02;
 }
 
