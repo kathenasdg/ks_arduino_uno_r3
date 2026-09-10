@@ -13,11 +13,10 @@
 //
 // Info:
 //
-// Set serial commuication baud rate of 115200.
+// Start serial communication at 115200 baud rate.
 //
 void setup()
 {
-    // Start serial communication at 115200 baud rate.
     Serial.begin(115200);
 }
 
@@ -26,21 +25,19 @@ void setup()
 //
 // Info:
 //
-// Output "Hello, World!" text to serial interface every five seconds.
+// Output "Hello, World!" text to serial interface every five seconds until
+// the "for" lop is satisfied.
+//
+// Hard exit the function.
 //
 void loop()
 {
-    // 
     for(int i = 0; i < 4; i++)
     {
-            // Print "Hello, World!"" to the serial interface.
         Serial.println("Hello, World!");
-
-        // Wait for 5 seconds.
         delay(5000);
     }
 
-    // Hard exit the function.
     exit(0);
 }
 
