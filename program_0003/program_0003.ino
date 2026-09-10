@@ -19,7 +19,7 @@
 //
 // Declare pin 13 as LED output on our UNO R3 device.
 //
-int led_pin = 13;
+const int led_pin = 13;
 
 //
 // Setup function.
