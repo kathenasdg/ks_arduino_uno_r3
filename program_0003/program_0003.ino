@@ -9,6 +9,10 @@
 //
 
 //
+// See image file "arduino_uno_r3.jpg" for board digram and pin layout.
+//
+
+//
 // See image file "multi_color_led_device.jpg".
 //
 // 1) Connect from this pin to 13 on UNO R3 board.

@@ -9,6 +9,10 @@
 //
 
 //
+// See image file "arduino_uno_r3.jpg" for board digram and pin layout.
+//
+
+//
 // Declaration of our "custom_add()" function.
 //
 int custom_add(int n_01, int n_02);
