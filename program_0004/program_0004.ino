@@ -67,7 +67,7 @@ void setup()
 void loop()
 {
     int button_state = digitalRead(push_button_pin);
-    Serial.println(sensor_value);
+    Serial.println(button_state);
 
     if (button_state == HIGH)
     {
