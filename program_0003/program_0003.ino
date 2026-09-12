@@ -1,4 +1,12 @@
 //
+// #    #
+// #   #     ##    #####  #    #  ######  #    #    ##     ####
+// #  #     #  #     #    #    #  #       ##   #   #  #   #
+// ###     #    #    #    ######  #####   # #  #  #    #   ####
+// #  #    ######    #    #    #  #       #  # #  ######       #
+// #   #   #    #    #    #    #  #       #   ##  #    #  #    #
+// #    #  #    #    #    #    #  ######  #    #  #    #   ####
+//
 // Kathenas: Multi-color (7) LED module test.
 //
 // Author(s): Kathenas Development Group (KDG), development.group@kathenas.org.

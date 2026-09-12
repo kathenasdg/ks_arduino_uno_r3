@@ -1,4 +1,12 @@
 //
+// #    #
+// #   #     ##    #####  #    #  ######  #    #    ##     ####
+// #  #     #  #     #    #    #  #       ##   #   #  #   #
+// ###     #    #    #    ######  #####   # #  #  #    #   ####
+// #  #    ######    #    #    #  #       #  # #  ######       #
+// #   #   #    #    #    #    #  #       #   ##  #    #  #    #
+// #    #  #    #    #    #    #  ######  #    #  #    #   ####
+//
 // Kathenas: Clear device, NULL program.
 //
 // Author(s): Kathenas Development Group (KDG), development.group@kathenas.org.

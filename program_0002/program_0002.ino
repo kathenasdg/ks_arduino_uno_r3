@@ -1,4 +1,12 @@
 //
+// #    #
+// #   #     ##    #####  #    #  ######  #    #    ##     ####
+// #  #     #  #     #    #    #  #       ##   #   #  #   #
+// ###     #    #    #    ######  #####   # #  #  #    #   ####
+// #  #    ######    #    #    #  #       #  # #  ######       #
+// #   #   #    #    #    #    #  #       #   ##  #    #  #    #
+// #    #  #    #    #    #    #  ######  #    #  #    #   ####
+//
 // Kathenas: Create custom function, addition of two numbers and return result.
 //
 // Author(s): Kathenas Development Group (KDG), development.group@kathenas.org.
