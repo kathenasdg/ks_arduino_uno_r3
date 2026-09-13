@@ -17,7 +17,7 @@
 //
 
 //
-// See image file "arduino_uno_r3.jpg" for board digram and pin layout.
+// See image file "arduino_uno_r3.jpg" for board diagram and pin layout.
 //
 
 //
