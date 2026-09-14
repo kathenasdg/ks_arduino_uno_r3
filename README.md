@@ -1,6 +1,6 @@
 ## Kathenas
 
-Thi repositry contains a variety of test programs for the Arduino UNO R3.
+This repositry contains a variety of test programs for the Arduino UNO R3.
 
 Link: [Arduino UNO R3](https://docs.arduino.cc/hardware/uno-rev3/).
 
