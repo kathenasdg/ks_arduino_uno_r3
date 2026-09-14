@@ -50,6 +50,7 @@ void loop()
         delay(5000);
     }
 
+    // FIX ME.
     exit(0);
 }
 

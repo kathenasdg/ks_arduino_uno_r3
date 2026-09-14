@@ -52,6 +52,8 @@ void loop()
 {
     int result = custom_add(10, 10);
     Serial.println(result);
+
+    // FIX ME.
     exit(0);
 }
 
